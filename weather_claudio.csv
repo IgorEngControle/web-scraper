@@ -1,0 +1,16 @@
+,day,description,temp,precip,wind,humidity
+0,JAN 29,Pouco Nublado,--19°,20%,LSL 11 Km/h ,61%
+1,JAN 30,Ensolarado,32°19°,10%,LNL 9 Km/h ,53%
+2,JAN 31,Ensolarado,32°20°,10%,N 9 Km/h ,49%
+3,FEV 1,Ensolarado,32°20°,0%,NL 10 Km/h ,47%
+4,FEV 2,Ensolarado,33°21°,10%,N 9 Km/h ,45%
+5,FEV 3,Ensolarado,33°21°,20%,N 9 Km/h ,48%
+6,FEV 4,Tempestades,31°19°,80%,L 13 Km/h ,60%
+7,FEV 5,Tempestades,27°19°,80%,L 14 Km/h ,69%
+8,FEV 6,Tempestades,26°18°,80%,NL 12 Km/h ,74%
+9,FEV 7,Tempestades,26°19°,80%,N 12 Km/h ,76%
+10,FEV 8,Tempestades,27°19°,80%,N 12 Km/h ,75%
+11,FEV 9,Tempestades,27°19°,80%,N 12 Km/h ,73%
+12,FEV 10,Tempestades,27°19°,80%,N 13 Km/h ,74%
+13,FEV 11,Tempestades,27°19°,80%,N 15 Km/h ,73%
+14,FEV 12,Tempestades,27°19°,80%,N 14 Km/h ,72%
